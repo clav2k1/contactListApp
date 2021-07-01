@@ -142,6 +142,7 @@ USE_TZ = True
 ## CORS
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
+    "https://60de45425bf9660f817979f2--hungry-murdock-da339e.netlify.app",
 ]
 
 #JWT
